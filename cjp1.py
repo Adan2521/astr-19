@@ -1,4 +1,4 @@
-def PrintHelloWorld(x):
+def PrintHelloWorld():
 	print(f"Full name: Adan Franco Casillas")
 	print(f'Pronouns (optional): He/him')
 	print(f'Favorite moive: The Batman')
