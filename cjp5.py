@@ -20,6 +20,6 @@ def main():
     for x, y in table:
         print(f"{x:.5f}\t {y:.5f}")
 
-# Run the program
+
 if __name__ == "__main__":
     main()
